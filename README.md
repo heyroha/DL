@@ -1,13 +1,14 @@
 # 🧙DL
 
 ## Deep Learning
+### Deep Learning
 
-## TensorFlow
+### TensorFlow
 
-## Pytorch
+### Pytorch
 
-## OpenCV
+### OpenCV
 
-## GPT
+### GPT
 - Transfomer
 - GPT, BERT
