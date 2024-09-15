@@ -6,7 +6,7 @@
 - **CNN**(MNIST에 적용)
 ->MNISST_CNN_model.h5 : 만든 모델 저장
   
-## Deep Learning from scratch
+## ✔️Deep Learning from scratch
 - 순방향 연산
 - 오차역전파
 - 크로스엔트로피
@@ -16,10 +16,12 @@
 - CNN 개념
 - Mask man 실습
   
-## Review of DeepLearning
+## ✔️Review of DeepLearning
 
-## Basic of Pytorch
-
+## ✔️Basic of Pytorch
+- 파이토치 기초(유방암 예측)
+- MNIST dataset CNN 구현
+  
 ## Transfer Learning
 
 ## Autoencoders, Image Augmentation
